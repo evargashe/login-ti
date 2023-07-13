@@ -10,7 +10,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-hook-form": "^5.7.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "reactfire": "^2.0.0-alpha.3"
   },
   "scripts": {
@@ -35,6 +35,6 @@
     ]
   },
   "devDependencies": {
-    "node-sass": "^4.14.1"
+    "node-sass": "^9.0.0"
   }
 }
